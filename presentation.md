@@ -12,12 +12,13 @@
 &nbsp; 
 
 ## Basic informations :  
-| Description |  |
-| :------------ | ------------ |
-| **Birthday** | 22.05.2000 |
-| **Gender** | Female |
-| **Favorite color** | None |
-| **Favorite food** | Garlic |
+
+| Description        |                               |
+| :----------------- | ----------------------------- |
+| **Birthday**       | 22.05.2000                    |
+| **Gender**         | Female                        |
+| **Favorite color** | None                          |
+| **Favorite food**  | Garlic                        |
 | **Pinneapple on pizza?** | NOOOOO (obvious answer) |  
 
 &nbsp;
