@@ -41,3 +41,20 @@
 &nbsp;
 &nbsp;
 ## You can always count on me when ...  
+
+&nbsp;
+... you feel like you need my help.  
+
+**Soft skills**  
+- Organization  
+- Autonomy  
+- Solving problems  
+- Analysing situations  
+
+**Hard skills** 
+- Digital designer  
+- Adobe Programs  
+
+&nbsp;
+&nbsp;
+&nbsp;
