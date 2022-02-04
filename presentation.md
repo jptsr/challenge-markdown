@@ -19,7 +19,7 @@
 | **Gender**         | Female                        |
 | **Favorite color** | None                          |
 | **Favorite food**  | Garlic                        |
-| **Pinneapple on pizza?** | NOOOOO (obvious answer) |  
+| **Pinneapple on pizza?** | <ul><li> [ ] YES (shame on you) </li> <li> [x] NOOOOO (obvious answer) </li></ul> |  
 
 &nbsp;
 &nbsp;
