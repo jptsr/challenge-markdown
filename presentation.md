@@ -18,4 +18,26 @@
 | **Gender** | Female |
 | **Favorite color** | None |
 | **Favorite food** | Garlic |
-| **Pinneapple on pizza?** |  <ul><li> [ ] YES (shame on you) </li> <li> [x] NOOOOO (obvious answer) </li></ul> |
+| **Pinneapple on pizza?** |  <ul><li> [ ] YES (shame on you) </li> <li> [x] NOOOOO (obvious answer) </li></ul> |  
+
+&nbsp;
+&nbsp;
+&nbsp;
+## Hobbies :  
+* Reading  
+    * Personnal development
+    * Fashion
+    * Manga
+* Documentaries (on Netflix and ARTE)  
+    * Climat change  
+    * Capitalisme  
+    * Actuality  
+* Going out (solor or w/friends)  
+* Draw  
+    * Paper  
+    * Digital  
+
+&nbsp;
+&nbsp;
+&nbsp;
+## You can always count on me when ...  
